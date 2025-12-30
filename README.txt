@@ -8,7 +8,7 @@
 
 This boot loader does not interact with the built-in STM32 boot loader. It 
 uses an interface of your choice, in this version its CANBUS CAN1 and
-USART3.
+USART1.
 The interface flexibility and the independence from the BOOT pins are the 
 main reasons for implementing this boot loader.
 
